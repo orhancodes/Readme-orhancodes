@@ -10,18 +10,12 @@
   <li> I'm current working on <b>Blue Bank Mobile App </b> </li>
   <li> I regular write articles on https://orhanjavadev.com@orhanyilmaz </li>
   <li> Ask me about 
-    <p>☑️JAVA
-    ☑️JAVA SCRIPT</p>
-    <p>☑️SASS </p>
-    <p>☑️BOOTTRAP</p> 
-    <p>☑️DOCKER</p>
-    <p>☑️AWS </p>
-    <p>☑️NEXT.JS</p> 
-    <p>☑️GIT </p>
-    <p>☑️HTML</p> 
-    <p>☑️CSS</p> 
-    <p>☑️REACT<p>
-    <p>☑️REDUX </p> 
+    <p>☑️JAVA ☑️JAVA SCRIPT☑️CSS  ☑️HTML   ☑️REACT ☑️REDUX </p> 
+    ☑️SASS ☑️BOOTTRAP ☑️DOCKER☑️AWS ☑️NEXT.JS ☑️GIT </p>
+   
+    
+
+    
   
 
  
