@@ -30,7 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orhanjavadev&show_icons=true&locale=en" alt="orhanjavadev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orhanjavadev&" alt="orhanjavadev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orhanjavadev&" alt="orhanjavadev" /></p> 
 
 
     
