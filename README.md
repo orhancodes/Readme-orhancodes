@@ -10,8 +10,8 @@
   <li> I'm current working on <b>Blue Bank Mobile App </b> </li>
   <li> I regular write articles on https://orhanjavadev.com@orhanyilmaz </li>
   <li> Ask me about 
-    <p>☑️JAVA ☑️JAVA SCRIPT☑️CSS  ☑️HTML   ☑️REACT ☑️REDUX </p> 
-    ☑️SASS ☑️BOOTTRAP ☑️DOCKER☑️AWS ☑️NEXT.JS ☑️GIT </p>
+    <p>☑️JAVA&nbsp;☑️JAVA SCRIPT&nbsp;☑️CSS&nbsp;☑️HTML&nbsp;☑️REACT&nbsp;☑️REDUX </p> &nbsp;
+    ☑️SASS&nbsp;☑️BOOTTRAP&nbsp;☑️DOCKER&nbsp;☑️AWS&nbsp;☑️NEXT.JS&nbsp;☑️GIT </p>&nbsp;
    
     
 
