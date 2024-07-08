@@ -12,10 +12,6 @@
   
   <p>&nbsp</p>
   
- ### Blogs posts
-<img src="https://github-readme-medium.vercel.app/?username=orhanjavadev">
-
- 
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
