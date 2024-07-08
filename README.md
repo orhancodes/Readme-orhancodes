@@ -11,7 +11,7 @@
   <li> I regular write articles on https://orhanjavadev.com@orhanyilmaz </li>
   <li> Ask me about 
     <p>☑️JAVA&nbsp;☑️JAVA SCRIPT&nbsp;☑️CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☑️HTML&nbsp;☑️REACT&nbsp;☑️REDUX </p>
-    ☑️SASS&nbsp;☑️BOOTTRAP&nbsp;&nbsp;&nbsp;☑️DOCKER&nbsp;☑️AWS&nbsp;☑️NEXT.JS&nbsp;☑️GIT </p>&nbsp;
+    ☑️SASS&nbsp;☑️BOOTTRAP&nbsp;&nbsp;&nbsp;☑️DOCKER&nbsp;☑️AWS&nbsp;&nbsp;&nbsp;☑️NEXT.JS&nbsp;☑️GIT </p>&nbsp;
    
     
 
