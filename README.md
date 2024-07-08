@@ -18,8 +18,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orhanjavadev" alt="orhanjavadev" /></a> </p>
 
-- 💬 Ask me about **☑️JAVA ☑️JAVA SCRIPT ☑️HTML ☑️REACT ☑️REDUX ☑️CSS ☑️SASS ☑️BOOTTRAP ☑️DOCKER ☑️AWS ☑️NEXT.JS ☑️GIT**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/orhan--yilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/orhan--yilmaz" height="30" width="40" /></a>
