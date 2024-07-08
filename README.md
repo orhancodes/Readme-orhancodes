@@ -11,7 +11,11 @@
   <li> I regular write articles on https://orhanjavadev.com@orhanyilmaz </li>
   
   <p>&nbsp</p>
+  
+ ### Blogs posts
+ [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
 
+ 
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
