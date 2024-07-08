@@ -19,8 +19,7 @@
 <a href="https://discord.gg/orhanjavadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="orhanjavadev" height="30" width="40" /></a>
 </p>
   
- <li> 
-   <p>
+    <p>
      <p>&nbsp</p>
   <p>&nbsp</p>
 <h3 align="left">Languages and Tools:</h3>
