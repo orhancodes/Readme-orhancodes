@@ -18,12 +18,12 @@
 <a href="https://linkedin.com/in/linkedin.com/in/orhan--yilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/orhan--yilmaz" height="30" width="40" /></a>
 <a href="https://discord.gg/orhanjavadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="orhanjavadev" height="30" width="40" /></a>
 </p>
-  <li> 
-    <p>
+  
+    
      <p>&nbsp</p>
   <p>&nbsp</p>
 <h3 align="left">Languages and Tools:</h3>
-     </p></li>
+  
      
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &n
