@@ -13,7 +13,7 @@
   <p>&nbsp</p>
   
  ### Blogs posts
- [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
+<img src="https://github-readme-medium.vercel.app/?username=orhanjavadev">
 
  
 
