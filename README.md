@@ -15,8 +15,6 @@ Join me on my coding and learning journey!
 
 <p align= "justify">I am a Front-End Developer. I have experience in the world of web development and am passionate about creating user-friendly and engaging web applications. My favorite programming languages are Java and JavaScript.</p>
 
-<ul>
-  <li> I'm current working on <b> Bank Mobile App </b> </li>
   
   <p>&nbsp</p>
   
