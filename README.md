@@ -1,33 +1,10 @@
 <img src="https://github.com/orhanjavadev/orhanjavadev/blob/main/kartvizim.jpeg?raw=true">
 
-# Hello, I'm Orhan YILMAZ! 👋
 
-I am a Front-End Developer. I have experience in the world of web development and am passionate about creating user-friendly and engaging web applications.
 
-## About Me
 
-- 💼 I am currently working on a Bank Mobile Application.
-- 🌱 I’m currently learning Java.
-- 👯 I’m open to collaborating on new projects and opportunities.
-- 💬 Ask me about JAVA, JAVASCRIPT, HTML, REACT, REDUX, CSS, SASS, BOOTSTRAP, DOCKER, AWS, NEXT.JS, GIT.
-- 📫 How to reach me: [orhanjavadev@gmail.com]
 
 Join me on my coding and learning journey!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -36,13 +13,18 @@ Join me on my coding and learning journey!
 
 <h3  align center =" >Front-End Developer</h3>
 
-<p align= "justify">I am a father, son, husband, volunteer, and Front-End Developer. I am 44 years old. I was originally a teacher, but I always wanted to enter the world of IT. Finally, in 2023, I made the transition to the IT industry. Now, I have completed my education as a Front-End Developer. My favorite programming languages are Java and JavaScript.</p>
+<p align= "justify">I am a Front-End Developer. I have experience in the world of web development and am passionate about creating user-friendly and engaging web applications. My favorite programming languages are Java and JavaScript.</p>
 
 <ul>
   <li> I'm current working on <b> Bank Mobile App </b> </li>
   
   <p>&nbsp</p>
   
+- 💼 I am currently working on a Bank Mobile Application.
+- 🌱 I’m currently learning Java.
+- 👯 I’m open to collaborating on new projects and opportunities.
+- 💬 Ask me about JAVA, JAVASCRIPT, HTML, REACT, REDUX, CSS, SASS, BOOTSTRAP, DOCKER, AWS, NEXT.JS, GIT.
+- 📫 How to reach me: [orhanjavadev@gmail.com]
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
