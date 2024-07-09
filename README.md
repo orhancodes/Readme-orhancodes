@@ -1,6 +1,38 @@
 <img src="https://github.com/orhanjavadev/orhanjavadev/blob/main/kartvizim.jpeg?raw=true">
 
-<h1 align="center">Hi,👋 I'm Orhan YILMAZ
+# Hello, I'm Orhan YILMAZ! 👋
+
+I am a Front-End Developer. I have experience in the world of web development and am passionate about creating user-friendly and engaging web applications.
+
+## About Me
+
+- 💼 I am currently working on a Bank Mobile Application.
+- 🌱 I’m currently learning Java.
+- 👯 I’m open to collaborating on new projects and opportunities.
+- 💬 Ask me about JAVA, JAVASCRIPT, HTML, REACT, REDUX, CSS, SASS, BOOTSTRAP, DOCKER, AWS, NEXT.JS, GIT.
+- 📫 How to reach me: [orhanjavadev@gmail.com]
+
+Join me on my coding and learning journey!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1 align="center"> # Hello, I'm Orhan YILMAZ! 👋
 
 <h3  align center =" >Front-End Developer</h3>
 
