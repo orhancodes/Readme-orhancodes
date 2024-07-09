@@ -8,7 +8,6 @@
 
 <ul>
   <li> I'm current working on <b> Bank Mobile App </b> </li>
-  <li> I regular write articles on https://orhanjavadev.com@orhanyilmaz </li>
   
   <p>&nbsp</p>
   
