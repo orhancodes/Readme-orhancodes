@@ -19,7 +19,7 @@ Join me on my coding and learning journey!
   <p>&nbsp</p>
   
 - 💼 I am currently working on a Bank Mobile Application.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Python.
 - 👯 I’m open to collaborating on new projects and opportunities.
 - 💬 Ask me about JAVA, JAVASCRIPT, HTML, REACT, REDUX, CSS, SASS, BOOTSTRAP, DOCKER, AWS, NEXT.JS, GIT.
 - 📫 How to reach me: [orhanjavadev@gmail.com]
