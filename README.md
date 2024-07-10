@@ -12,7 +12,7 @@ Join me on my coding and learning journey!
 
 <h3  align center =" >Front-End Developer</h3>
 
-<p align= "justify">I am a Front-End Developer. I have experience in the world of web development and am passionate about creating user-friendly and engaging web applications. My favorite programming languages are Java and JavaScript.</p>
+<p align= "justify">I am a Front-End Developer. I am passionate about creating user-friendly and engaging web applications. My favorite programming languages are Java and JavaScript.</p>
 
   
   <p>&nbsp</p>
