@@ -26,7 +26,7 @@ Join me on my coding and learning journey!
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/orhan-yilmaz-codes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/orhan-yilmaz-codes/" height="30" width="40" /></a>
-<a href="https://discord.gg/orhanjavadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="orhancodes" height="30" width="40" /></a>
+<a href="https://discord.gg/orhancodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="orhancodes" height="30" width="40" /></a>
 </p>
    <p>&nbsp</p>
 
