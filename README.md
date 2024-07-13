@@ -22,13 +22,15 @@ Join me on my coding and learning journey!
 - 👯 I’m open to collaborating on new projects and opportunities.
 - 💬 Ask me about JAVA, JAVASCRIPT, HTML, REACT, REDUX, CSS, SASS, BOOTSTRAP, DOCKER, AWS, NEXT.JS, GIT.
 - 📫 How to reach me: [orhancodes@gmail.com]
-- ![icons8-linkedin-100]height="30" width="40"(https://github.com/user-attachments/assets/689e0973-d878-46fa-8012-b51770c304c9)
-www.linkedin.com/in/orhan-yilmaz-codes/
-- www.discord.gg/orhancodes
+- (https://github.com/user-attachments/assets/689e0973-d878-46fa-8012-b51770c304c9)
+-www.linkedin.com/in/orhan-yilmaz-codes/
+
+
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/orhan-yilmaz-codes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/orhan-yilmaz-codes/" height="30" width="40" /></a>
+  
 <a href="https://discord.gg/orhancodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="orhancodes" height="30" width="40" /></a>
 </p>
    <p>&nbsp</p>
