@@ -22,7 +22,7 @@ Join me on my coding and learning journey!
 - 👯 I’m open to collaborating on new projects and opportunities.
 - 💬 Ask me about JAVA, JAVASCRIPT, HTML, REACT, REDUX, CSS, SASS, BOOTSTRAP, DOCKER, AWS, NEXT.JS, GIT.
 - 📫 How to reach me: [orhancodes@gmail.com]
-- ![image](https://github.com/user-attachments/assets/a9255434-d862-42f5-8170-e6920c6ac5ae)
+- ![icons8-linkedin-100]height="30" width="40"(https://github.com/user-attachments/assets/689e0973-d878-46fa-8012-b51770c304c9)
 www.linkedin.com/in/orhan-yilmaz-codes/
 - www.discord.gg/orhancodes
 
