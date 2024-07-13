@@ -13,10 +13,8 @@
 - 🌱 I’m currently learning Python.
 - 👯 I’m open to collaborating on new projects and opportunities.
 - 💬 Ask me about JAVA, JAVASCRIPT, HTML, REACT, REDUX, CSS, SASS, BOOTSTRAP, DOCKER, AWS, NEXT.JS, GIT.
-- 📫  How to reach me
-You can reach me via email at [orhancodes@gmail.com](mailto:orhancodes@gmail.com).
-
-🔗 Connect with me
+- 📫  How to reach me (mailto:orhancodes@gmail.com)
+- 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Orhan_YILMAZ-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/orhan-yilmaz-codes/)
   
 <a href="https://discord.gg/orhancodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="orhancodes" height="30" width="40" /></a>
