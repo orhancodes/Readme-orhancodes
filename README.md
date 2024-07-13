@@ -1,4 +1,4 @@
-<img src ="https://github.com/orhanjavadev/orhanjavadev/blob/main/Kartvizit%20ABD%203.5x2%20%20in%C3%A7.jpeg">
+<img src ="my-walpp2.jpeg">
 
 
 
