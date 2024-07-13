@@ -17,10 +17,6 @@
 - 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Orhan_YILMAZ-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/orhan-yilmaz-codes/)
   
-<a href="https://discord.gg/orhancodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="orhancodes" height="30" width="40" /></a>
-</p>
-   <p>&nbsp</p>
-
 </body>
 </html>
 
