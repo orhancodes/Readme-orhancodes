@@ -1,13 +1,5 @@
 <img src ="my-walpp.jpeg">
 
-
-
-
-Join me on my coding and learning journey!
-
-
-
-
 <h1 align="center"> # Hello, I'm Orhan YILMAZ! 👋
 
 <h3  align center =" >Front-End Developer</h3>
@@ -21,86 +13,16 @@ Join me on my coding and learning journey!
 - 🌱 I’m currently learning Python.
 - 👯 I’m open to collaborating on new projects and opportunities.
 - 💬 Ask me about JAVA, JAVASCRIPT, HTML, REACT, REDUX, CSS, SASS, BOOTSTRAP, DOCKER, AWS, NEXT.JS, GIT.
-- 📫 Bana Ulaşın
+- 📫  How to reach me
+You can reach me via email at [orhancodes@gmail.com](mailto:orhancodes@gmail.com).
 
- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/orhan-yilmaz-codes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/orhan-yilmaz-codes/" height="30" width="40" /></a>
+🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Orhan_YILMAZ-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/orhan-yilmaz-codes/)
   
 <a href="https://discord.gg/orhancodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="orhancodes" height="30" width="40" /></a>
 </p>
    <p>&nbsp</p>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Orhan YILMAZ</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-        }
-        .profile-img {
-            width: 150px;
-            border-radius: 50%;
-        }
-        .contact-info a {
-            text-decoration: none;
-            color: #007bff;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Merhaba, ben Orhan YILMAZ! 👋</h1>
-        
-        <p>Ben bir <strong>Front-End Geliştiricisiyim</strong>. Kullanıcı dostu ve ilgi çekici web uygulamaları oluşturma konusunda tutkuluyum. En sevdiğim programlama dilleri <strong>Java</strong> ve <strong>JavaScript</strong>'tir.</p>
-        
-        <img src="https://www.example.com/path/to/your/image.jpg" alt="Profil Resmi" class="profile-img">
-        
-        <h2>💼 Şu Anda Çalıştığım Proje</h2>
-        <p>Şu anda <strong>Banka Mobil Uygulaması</strong> üzerinde çalışıyorum. Bu proje, kullanıcı dostu bir mobil bankacılık deneyimi sunmayı amaçlamaktadır.</p>
-        
-        <h2>🌱 Öğrendiğim Teknolojiler</h2>
-        <p>Şu anda <strong>Python</strong> öğreniyorum. Öğrenme sürecimde ilerledikçe yeni projeler ve teknolojiler üzerinde çalışmaktan büyük keyif alıyorum.</p>
-        
-        <h2>🤝 İş Birliği</h2>
-        <p>Yeni projelerde ve fırsatlarda iş birliğine açığım. Eğer ilginç projeler üzerinde çalışıyorsanız veya iş birliği yapmak istiyorsanız, bana <a href="mailto:orhancodes@gmail.com">e-posta</a> veya <a href="https://www.linkedin.com/in/orhan-yilmaz-kodlari/">LinkedIn</a> üzerinden ulaşabilirsiniz.</p>
-        
-        <h2>💬 Bana Sorabileceğiniz Konular</h2>
-        <ul>
-            <li>JAVA</li>
-            <li>JAVASCRIPT</li>
-            <li>HTML</li>
-            <li>REACT</li>
-            <li>REDUX</li>
-            <li>CSS</li>
-            <li>SASS</li>
-            <li>BOOTSTRAP</li>
-            <li>DOCKER</li>
-            <li>AWS</li>
-            <li>NEXT.JS</li>
-            <li>GIT</li>
-        </ul>
-        
-        <h2>📫 Bana Ulaşın</h2>
-        <p>E-posta: <a href="mailto:orhancodes@gmail.com">orhancodes@gmail.com</a><br>
-        LinkedIn: <a href="https://www.linkedin.com/in/orhan-yilmaz-kodlari/">Orhan Yılmaz</a></p>
-        
-        <h2>🔗 Bağlantılar</h2>
-        <ul>
-            <li><a href="https://github.com/orhancodes">GitHub Profilim</a></li>
-        </ul>
-    </div>
+
 </body>
 </html>
 
