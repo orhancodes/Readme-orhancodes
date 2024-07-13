@@ -21,12 +21,12 @@ Join me on my coding and learning journey!
 - 🌱 I’m currently learning Python.
 - 👯 I’m open to collaborating on new projects and opportunities.
 - 💬 Ask me about JAVA, JAVASCRIPT, HTML, REACT, REDUX, CSS, SASS, BOOTSTRAP, DOCKER, AWS, NEXT.JS, GIT.
-- 📫 How to reach me: [orhanjavadev@gmail.com]
+- 📫 How to reach me: [orhancodes@gmail.com]
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/orhan--yilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/orhan--yilmaz" height="30" width="40" /></a>
-<a href="https://discord.gg/orhanjavadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="orhanjavadev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/orhan-yilmaz-codes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/orhan-yilmaz-codes/" height="30" width="40" /></a>
+<a href="https://discord.gg/orhanjavadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="orhancodes" height="30" width="40" /></a>
 </p>
    <p>&nbsp</p>
 
