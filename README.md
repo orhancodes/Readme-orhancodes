@@ -21,10 +21,17 @@ Join me on my coding and learning journey!
 - 🌱 I’m currently learning Python.
 - 👯 I’m open to collaborating on new projects and opportunities.
 - 💬 Ask me about JAVA, JAVASCRIPT, HTML, REACT, REDUX, CSS, SASS, BOOTSTRAP, DOCKER, AWS, NEXT.JS, GIT.
-- 📫 How to reach me: [orhancodes@gmail.com]
-- (https://github.com/user-attachments/assets/689e0973-d878-46fa-8012-b51770c304c9)
--www.linkedin.com/in/orhan-yilmaz-codes/
-
+- 📫 Bana Ulaşın
+ </ul>
+        
+        <h2>📫 Bana Ulaşın</h2>
+        <p>E-posta: <a href="mailto:orhancodes@gmail.com">orhancodes@gmail.com</a><br>
+        LinkedIn: <a href="https://www.linkedin.com/in/orhan-yilmaz-kodlari/">Orhan Yılmaz</a></p>
+        
+        <h2>🔗 Bağlantılar</h2>
+        <ul>
+            <li><a href="https://github.com/orhancodes">GitHub Profilim</a></li>
+        </ul>
 
 
  <h3 align="left">Connect with me:</h3>
